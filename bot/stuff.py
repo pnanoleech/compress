@@ -60,8 +60,8 @@ async def start(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("Owner", url="https://t.me/THECIDKAGENOUBOT"),
-                Button.url("DEVELOPER", url="https://t.me/THECIDKAGENOUBOT"),
+                Button.url("Owner", url="https://t.me/actanibot"),
+                Button.url("DEVELOPER", url="https://t.me/actanibot"),
             ],
         ],
     )
