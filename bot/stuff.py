@@ -60,8 +60,8 @@ async def start(event):
         buttons=[
             [Button.inline("ʜᴇʟᴘ 🥺️", data="ihelp")],
             [
-                Button.url("ᴏᴡɴᴇʀ ♔", url="t.me/THECIDKAGENOUBOT"),
-                Button.url("ᴅᴇᴠʟᴏᴘᴇʀ ♕", url="t.me/THECIDKAGENOUBOT"),
+                Button.url("ᴏᴡɴᴇʀ ♔", url="t.me/tusharbyas"),
+                Button.url("ᴅᴇᴠʟᴏᴘᴇʀ ♕", url="t.me/botsnano"),
             ],
         ],
     )
@@ -86,7 +86,7 @@ async def beck(event):
         buttons=[
             [Button.inline("ʜᴇʟᴘ 🥺️", data="ihelp")],
             [
-                Button.url("ᴏᴡɴᴇʀ ♔", url="t.me/THECIDKAGENOUBOT"),
+                Button.url("ᴏᴡɴᴇʀ ♔", url="t.me/botsnano"),
                 Button.url("ᴅᴇᴠʟᴏᴘᴇʀ ♕", url="t.me/THECIDKAGENOUBOT"),
             ],
         ],
